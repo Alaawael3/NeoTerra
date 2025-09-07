@@ -10,29 +10,29 @@ It combines conversational AI with specialized geospatial tools, enabling users 
 
 - Natural language access to geospatial workflows.
 
-### 🛢 Oil Spill Segmentation
+### Oil Spill Segmentation
 
 - Detect oil spills from satellite imagery.
 
 - Differentiate oil vs. look-alikes vs. background.
 
-### 🛰 Satellite Metadata Extraction
+### Satellite Metadata Extraction
 
-- Extract metadata such as:
+Extract metadata such as:
 
- - Image size
+ -- Image size
 
- - CRS (Coordinate Reference System)
+ -- CRS (Coordinate Reference System)
 
- - Geospatial bounds
+ -- Geospatial bounds
 
-### 🖼 Image Preprocessing
+### Image Preprocessing
 
 - Normalization
 
 - Histogram equalization
 
-### 🌤 Cloud Handling
+### Cloud Handling
 
 - Cloud segmentation and detection.
 
