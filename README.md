@@ -20,11 +20,11 @@ It combines conversational AI with specialized geospatial tools, enabling users 
 
 Extract metadata such as:
 
- -- Image size
+ - Image size
 
- -- CRS (Coordinate Reference System)
+ - CRS (Coordinate Reference System)
 
- -- Geospatial bounds
+ - Geospatial bounds
 
 ### Image Preprocessing
 
@@ -47,3 +47,4 @@ Extract metadata such as:
 ### Image Download Tool
 
 - Fetch and preprocess remote images directly.
+
