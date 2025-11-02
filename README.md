@@ -115,7 +115,7 @@ The NeoTerra workflow consists of the following integrated stages:
 |------|------|-------------|
 | 💼 Demo Video | [LinkedIn](https://www.linkedin.com/posts/alaa-wael-boghdady-338bb02a9_finally-i-can-introduce-neoterra-%D8%A8%D8%B9%D8%AF-activity-7381430823411040256-nyK9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEpk0NwB6QWIAaxIX53R0WLZK11UrsCguaM) | A short demonstration of NeoTerra's capabilities and interactive workflows |
 | 📑 Presentation Slides | [View on Google Drive](#) | Detailed presentation covering motivation, architecture, and outcomes |
-| 📖 Documentation | [View Docs](#) | Complete API documentation and user guide |
+| 📖 Documentation | [View Docs](NeoTerra_paper.pdf) | Complete API documentation and user guide |
 | 🐙 GitHub Repository | [View on GitHub](#) | Source code and contribution guidelines |
 
 *Note: Replace `#` with your actual links to deploy the repository.*
